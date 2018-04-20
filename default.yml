@@ -1,7 +1,6 @@
 ---
 
 - hosts: 10.75.0.244
-  connection: local
   gather_facts: true
   become: yes
 
