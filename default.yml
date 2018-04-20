@@ -2,9 +2,8 @@
 
 - hosts: 10.75.0.244
   connection: local
-  gather_facts: true
+  gather_facts: false
   become: yes
-  sudo: no
 
   vars:
     cis_level_1_exclusions:
