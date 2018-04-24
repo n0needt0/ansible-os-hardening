@@ -6,6 +6,7 @@
 
   vars:
     cis_level_1_exclusions:
+      - 0.0.0 #need to keep an array
     cis_pass_max_days: 45
     cis_umask_default: 002
 
