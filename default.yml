@@ -1,6 +1,6 @@
 ---
 
-- hosts: 10.75.0.244
+- hosts: 10.75.0.159
   gather_facts: true
   become: yes
 
